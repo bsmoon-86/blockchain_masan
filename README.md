@@ -1,6 +1,6 @@
 # blockchain_masan
 
-##리스트 
+## 리스트 
 
 struct --> {input_add, input_name, input_phone}
 test_list --> "0x1111111", "문병선" , 01053869303 입력을 하였다 생각하면
